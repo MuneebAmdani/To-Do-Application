@@ -1,0 +1,37 @@
+.container{
+    text-align: center;
+    background-color: black;
+    width: 50%;
+    height: 50vh;
+    margin-left: 25%;
+    margin-top: 10%;
+    border-radius: 50px;
+}
+#click{
+    background-color: green;
+    color: white;
+    border-radius: 50px;
+}
+#red-button{
+    background-color: red;
+    color: white;
+    border-radius: 50px;
+}
+input{
+    color: white;
+    background-color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    color: white;
+}
+h1{
+    color: white;
+}
+body{
+    background-image: url("https://www.hsa.ie/images_upload/eng/topics/remote_working/remote_working_image.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
